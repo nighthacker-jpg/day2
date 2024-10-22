@@ -1,0 +1,46 @@
+.carousel-item{
+    height: 550px;
+}
+.head{
+    text-align: center;
+    color: rgb(172, 216, 254);
+}
+.counter {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+.sp{
+    justify-content: center;
+}
+.col-md-8{
+        width: 300px;
+        padding: 20px;
+        border-radius: 10px;
+        background-color: #fff;
+        text-align: center;
+        box-shadow: 0px 4px 8px rgba(15, 14, 14, 0.528);
+}
+.col-md-8:hover{ 
+    box-shadow: 0px 4px 8px rgba(15, 14, 14, 0.528);
+    Transform: scale(1.1);
+}
+.head{
+    
+}
+.auto{
+ height:50%;
+
+}
+.cc{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+   
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
